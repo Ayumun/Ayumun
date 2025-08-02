@@ -23,12 +23,13 @@
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm Ayumun!**
-🚀 **Flutter Developer** passionate about mobile development  
+
+🚀 **Flutter Developer** passionate about mobile development
 
 🌍 **Location:** Japan 🇯🇵  
 💼 **Focus:** Building beautiful mobile applications  
 ☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+🎯 **Goal:** Creating amazing user experiences
 
 </td>
 </tr>
@@ -52,25 +53,31 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
+### 📱 **Mobile Development**
+
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
-### ☁️  **Backend as a Service (BaaS)**
+### ☁️ **Backend as a Service (BaaS)**
+
 <img src="https://skillicons.dev/icons?i=supabase,firebase" />
 
-### 🔧  **Development Tools**
+### 🔧 **Development Tools**
+
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️  **Database**
+### 🗄️ **Database**
+
 <img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
 
-### 🎨  **Design**
+### 🎨 **Design**
+
 <img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
 
-### 💻  **Languages & Frameworks**
+### 💻 **Languages & Frameworks**
+
 <img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
 
 </td>
