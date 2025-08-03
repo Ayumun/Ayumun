@@ -52,9 +52,9 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱 **Mobile Development**
+### 📱 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,nuxtjs,vue,vuetify" />
 
 ### ☁️ **Backend as a Service (BaaS)**
 
