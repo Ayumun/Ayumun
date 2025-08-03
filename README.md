@@ -27,9 +27,8 @@
 🚀 **Web Developer**
 
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Service development
+💼 **Focus:** Service development</br>
 ☕ **Powered by:** Beer and Beer🍺
-🎯 **Goal:** Good experiences of yours
 
 </td>
 </tr>
