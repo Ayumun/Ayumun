@@ -24,12 +24,12 @@
 
 ### 👋 **Hi, I'm Ayumun!**
 
-🚀 **Flutter Developer** passionate about mobile development
+🚀 **Web Developer**
 
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences
+💼 **Focus:** Service development
+☕ **Powered by:** Beer and Beer🍺
+🎯 **Goal:** Good experiences of yours
 
 </td>
 </tr>
