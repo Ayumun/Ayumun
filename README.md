@@ -56,28 +56,28 @@
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,nuxtjs,vue,vuetify" />
 
-### ☁️ **Backend as a Service (BaaS)**
+### ☁️ **Backend**
 
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=firebase,py,prisma,graphql" />
 
 ### 🔧 **Development Tools**
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions,docker" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 🗄️ **Database**
 
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
 
 ### 🎨 **Design**
 
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
+<img src="https://skillicons.dev/icons?i=figma,xd" />
 
-### 💻 **Languages & Frameworks**
+### 💻 **Languages & Infra**
 
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,aws,terraform,vercel,linux" />
 
 </td>
 </tr>
