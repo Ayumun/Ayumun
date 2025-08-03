@@ -37,7 +37,7 @@
 </div>
 
 ## 📊 **GitHub Analytics**
-
+<p>These results do not include private commits. Also, I use a separate GHE account for my day job.</ p>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayumun&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
 </div>
@@ -94,5 +94,5 @@
   
   **⭐ From [Ayumun](https://github.com/Ayumun) with ❤️**
   
-  *"Flutter makes everything beautiful! 🦋"*
+  *"The beer wants me to drink it."*
 </div>
